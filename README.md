@@ -100,6 +100,6 @@ A guideline é a base estratégica para garantir que o uso do X-Ray seja consist
 
 ---
 
-Feito com 💜 por [Andreline Lira](https://www.linkedin.com/in/andrelinelira)
+Feito com 💜 por [Andreline Lira](https://www.linkedin.com/in/andrelineflira)
 
 > Este conteúdo é baseado em experiências reais de QA e tem como objetivo ajudar outras pessoas a aplicarem o X-Ray de forma eficiente e estratégica no seu time.
